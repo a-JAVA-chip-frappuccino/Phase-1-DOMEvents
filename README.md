@@ -2,7 +2,7 @@
 
 ## Objectives
 
-By the end of today's lecture, you will be able to name three of the most commonly-seen event listeners, and will also know the process behind adding an event listener to the DOM and triggering it.
+By the end of today's lecture, you will be able to name four of the most commonly-seen event listeners, and will also know the process behind adding an event listener to the DOM and triggering it.
 
 ## Lesson Plan
 
